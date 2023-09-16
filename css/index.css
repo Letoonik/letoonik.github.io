@@ -1,4 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Fauna+One&family=Space+Grotesk&display=swap');
+ @font-face {
+    font-family: 'Fauna One';
+    src: url(/fonts/FaunaOne.woff2);
+ }
+
 html {
     scroll-behavior: smooth;
 
@@ -38,7 +42,6 @@ body {
     width: 800px;
 
 }
-
 .site-index {
     color: white;
     position: fixed;
