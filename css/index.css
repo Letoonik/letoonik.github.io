@@ -1,22 +1,39 @@
- @font-face {
+::-webkit-scrollbar {
+    background-color: rgb(29, 29, 48);
+    color: blue;
+    height: 12px;
+    width: 8px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: rgb(70, 58, 101);
+    border-radius: 4px;
+    width: 1px;
+    box-shadow: 0px 0px 10px white;
+}
+
+
+
+@font-face {
     font-family: 'Fauna One';
     src: url(/fonts/FaunaOne.woff2);
  }
 
 html {
     scroll-behavior: smooth;
-
+    scrollbar-width: 1px;
 }
 body {
     background-color: rgb(21, 21, 36);
 }
 
 .quickinfo {
+    display: inline-block;
     color: white;
     font-family: 'Fauna One';
-    position: absolute;
+    position: relative;
     top: 15%;
     left: 18%;
+    margin-top: 125px;
     width: 1200px;
     height: 500px;
     border-color: rgb(49, 49, 73);
@@ -33,16 +50,27 @@ body {
     width: 360px;
     border-width: 4px;
     border-radius: 20px;
-    position:absolute;
+    position: absolute;
     left: 65%;
     top: 15%;
 }
+
 .quickinfo-content {
     margin: 20px;
-    width: 800px;
+    width: 750px;
+    font-family: monospace;
+    font-size: 28px
 
 }
 .site-index {
     color: white;
     position: fixed;
+}
+.website-band {
+    width:1500px;
+    scale: 153.9%; 
+    border-radius: 15px; 
+    z-index: -100;
+    margin-top: 300px; 
+    object-fit: cover;
 }
