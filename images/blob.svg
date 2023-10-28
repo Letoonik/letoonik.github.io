@@ -1,9 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg">
-<g id="Layer_1">
-    <title>Layer 1</title>
-    <path fill="none" stroke="#000" opacity="NaN" d="m693.14286,561c176.57143,-53.71429 282.28571,-16.57143 282.28571,-17.14286c0,0.57143 -458.85714,70.85714 -282.28571,17.14286z" id="svg_3"/>
-    <path stroke="#000" transform="rotate(1 890.954 196.426)" fill="#af93ff" d="m126.40015,116.13746c560.31858,-126.63978 487.54995,-78.33387 596.70291,-58.75042c109.15297,19.58347 315.33081,-97.91735 597.91573,-22.19461c282.58492,75.72276 368.69449,-32.63911 470.5706,-2.61114c101.87611,30.028 133.40918,49.61147 133.40918,49.61147c0,0 23.0434,248.0573 23.0434,248.0573c0,0 -18.19216,-52.22258 -204.96503,10.44452c-186.77286,62.6671 -407.50443,-107.0563 -548.19047,-67.88938c-140.68604,39.16695 -234.07247,86.16728 -439.0375,57.44486c-204.96503,-28.72243 -757.19917,44.44727 -765.80466,52.79675c-8.60549,8.34948 -423.96273,-140.2696 136.35585,-266.90938l-0.00002,0.00002z" id="svg_5"/>
-    <rect id="svg_7" height="152.85713" width="2087.14267" y="266.42859" x="-124.28579" stroke="#000" fill="#ffffff"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="1.27 171.512 497.459 97.899"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="blob3.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.7568965"
+     inkscape:cx="193.52307"
+     inkscape:cy="67.448482"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="Layer_1"
+     transform="matrix(0.23652398049831388, 0, 0, 0.22652398049831388, 50.45833969116211, 186.73294067382812)"
+     style="">
+    <title
+       id="title1">Layer 1</title>
+    <path
+       stroke="#000000"
+       fill="#af93ff"
+       d="M -216.35533,115.10813 C 422.95667,-29.385874 494.738,-32.525 619.278,-10.18 c 124.542,22.343 359.787,-111.723 682.21,-25.324 322.423,86.398 420.672,-37.241 536.911,-2.98 116.239,34.261 139.7197,53.27011 139.7197,53.27011 0.2739,97.89688 5.6183,209.83957 5.6379,291.12582 0,0 12.3944,-64.34593 -200.7096,7.15507 -213.104,71.502 -464.953,-122.149 -625.473,-77.459 -160.521,44.688 -267.072,98.314 -500.933,65.543 -233.861,-32.773 -848.84126,57.45058 -863.96037,62.04294 -5.79546,-13.25953 -6.32822,-166.6476 -9.03596,-248.08581 z"
+       id="svg_5"
+       transform="rotate(0.99997641,1.1459135e-4,-9.9804525e-7)"
+       sodipodi:nodetypes="cccsccccccc" />
+  </g>
 </svg>
