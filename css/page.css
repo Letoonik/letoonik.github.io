@@ -13,11 +13,9 @@ p {
     position: relative;
     margin:0 auto;
 }
-.link-to-mainpage {
-    float: right;
-}
 
 .refresh-date {
+    float: right;
     font-size: medium;
     border: hidden;
     display: inline-block;
@@ -38,4 +36,13 @@ p {
 }
 .contact-picture {
     zoom: 42%;
+}
+.site-header2 {
+    margin-top: 18px;
+    border: solid;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(103, 80, 167);
+    font-size: 20px;
+    display: inline-block;
 }

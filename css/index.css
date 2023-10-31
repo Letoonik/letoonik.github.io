@@ -90,7 +90,6 @@ p, a, li, h1 {
     background-color: rgb(103, 80, 167);
     font-size: 20px;
     display: inline-block;
-    z-index: 100;
 }
 .website-band {
     min-width: fit-content;
