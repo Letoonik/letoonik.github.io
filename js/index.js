@@ -1,3 +1,4 @@
+//you could do the cursor blinking in css, but why not use some janky js from time to time
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
