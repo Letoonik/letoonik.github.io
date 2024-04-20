@@ -35,6 +35,20 @@
     src: url(/fonts/PokemonDE.woff2);
 }
 
+@media (max-width: 1279px) {
+    .website-band {
+        visibility: hidden;
+
+    }
+}
+
+.website-band {
+    min-width: fit-content;
+    width: 100%;
+    margin-top: 100px;
+    user-select: none;
+}
+
 html {
     scroll-behavior: smooth;
     scrollbar-width: 1px;
@@ -91,12 +105,6 @@ p, a, li, h1 {
     background-color: rgb(103, 80, 167);
     font-size: 20px;
     display: inline-block;
-}
-.website-band {
-    min-width: fit-content;
-    width: 100%;
-    margin-top: 100px;
-    user-select: none;
 }
 
 .projects {
