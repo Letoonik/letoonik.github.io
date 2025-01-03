@@ -12,4 +12,4 @@ async function cursorBlinking() {
     }
 }
 
-cursorBlinking()
+cursorBlinking();

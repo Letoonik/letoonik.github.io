@@ -40,13 +40,9 @@
         visibility: hidden;
 
     }
-}
-
-.website-band {
-    min-width: fit-content;
-    width: 100%;
-    margin-top: 100px;
-    user-select: none;
+    .quickinfo {
+        width: 100%;
+    }
 }
 
 html {
@@ -54,7 +50,6 @@ html {
     scrollbar-width: 1px;
 }
 body {
-    width: device-width;
     background-color: rgb(21, 21, 36);
 }
 
@@ -65,10 +60,11 @@ p, a, li, h1 {
 
 .quickinfo, .projects {
     position: relative;
-    margin:0 auto;
-    margin-top: 125px;
-    width: 1200px;
-    height: 525px;
+    margin:0px auto;
+    margin-top: 100px;
+    padding-bottom: 4vh;
+    width: 70%;
+    height: 50%;
     border-color: rgb(49, 49, 73);
     border-style: solid;
     border-width: 2px;
@@ -78,25 +74,26 @@ p, a, li, h1 {
 .quickinfo-headline, .projects-headline, .faq-headline {
     font-family: 'Pokemon DE';
     display: inline-block;
-    padding-left: 50px;
-    font-size: 40px;
+    margin-left: 3vw;
+    font-size: 3vw;
 }
 .quickinfo-picture {
-    width: 360px;
+    width: 30%;
     border-width: 4px;
     border-radius: 20px;
     position: absolute;
-    left: 65%;
-    top: 15%;
+    left: 66%;
+    top: 12%;
     user-select: none;
 }
 .quickinfo-content {
-    margin-top: -10px;
-    margin-left: 50px;
-    width: 700px;
+    margin-left: 3vw;
+    margin-top: 0px;
+    width: 57%;
     font-family: monospace;
-    font-size: 28px
+    font-size: 1.5vw;
 }
+
 .navbar-main {
     border: solid;
     border-radius: 20px;
@@ -130,4 +127,11 @@ p, a, li, h1 {
 .projects-letoonik.github.io {
     border: solid;
     border-color: rgb(194, 71, 109);
+}
+
+.website-band {
+    min-width: fit-content;
+    width: 100%;
+    margin-top: 100px;
+    user-select: none;
 }
